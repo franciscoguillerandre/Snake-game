@@ -4,7 +4,7 @@ For the Performance Task in Programming 1
 
 # Snake Game
 
-A simple implementation of the classic Snake game where the player navigates a snake to eat pink orbs and achieve a high score.
+A simple implementation of the classic Snake game in Python where the player navigates a snake to eat pink orbs and achieve a high score.
 
 ## How to Play
 
